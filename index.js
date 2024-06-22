@@ -1,3 +1,4 @@
+#! /usr/bin/env node 
 import inquirer from "inquirer";
 function countWords(paragraph) {
     let freeWhiteSpaces = paragraph.replace(/\s/g, "");
