@@ -1,6 +1,5 @@
-/*
-create a word Counter app to count words by taking input from the user
-*/
+#! /usr/bin/env node 
+
 import { log } from "console";
 import inquirer from "inquirer";
 
